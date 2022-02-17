@@ -19,6 +19,21 @@ export default function Profile() {
               <i className="fa fa-twitter"> </i>
             </a>
           </div>
+
+          <div className="profile-details-name">
+              <span className="primary-text">
+                  {" "}
+                  Hello, I'm <span className="highlighted-text">Reagan</span>
+              </span>
+              </div>
+              <div className="profile-datails-role">
+                  <span className="primary-text">
+                      {" "}
+                      <h1>
+                          
+                      </h1>
+                  </span>
+          </div>
         </div>
       </div>
     </div>
